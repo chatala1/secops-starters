@@ -1,4 +1,4 @@
 ---
-title: Security Tools
+title: <b>Security Tools</b>
 layout: home
 ---
