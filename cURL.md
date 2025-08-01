@@ -1,7 +1,6 @@
 ---
 title: cURL Cheat Sheet
 layout: Home
-nav_order: 3
 ---
 
 # cURL
