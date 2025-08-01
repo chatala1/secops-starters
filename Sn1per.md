@@ -1,9 +1,6 @@
 ---
 title: "Sn1per"
-nav_order: 1
-parent: "Tools"
-has_children: false
-has_toc: true
+layout: home
 ---
 
 # Sn1per
