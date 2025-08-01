@@ -1,5 +1,6 @@
 ---
 title: About
+layout: Home
 nav_order: 1
 description: Reference Index - About this project
 parent: Cheat Sheets
