@@ -1,4 +1,4 @@
 ---
-title: Developer Tools
+title: <b>Developer Tools</b>
 layout: home
 ---
