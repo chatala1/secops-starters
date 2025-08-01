@@ -1,5 +1,5 @@
 ---
-title: Splunk Quick Reference Guide
+title: Splunk Quick Reference
 layout: home
 ---
 
