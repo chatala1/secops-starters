@@ -1,7 +1,7 @@
 ---
 title: About
 layout: Home
-navorder: 2
+nav_order: 2
 ---
 
 # Security Operations Reference Index
