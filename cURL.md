@@ -1,10 +1,7 @@
 ---
 title: cURL Cheat Sheet
-nav_order: 1
-description: Reference Index - cURL commands and usage notes
-parent: Cheat Sheets
-has_children: false
-permalink: /curl-cheat-sheet/
+layout: Home
+nav_order: 3
 ---
 
 # cURL
