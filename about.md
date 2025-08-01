@@ -1,3 +1,9 @@
+---
+title: About
+nav_order: 1
+description: Reference Index - About this project
+---
+
 # Security Operations Reference Index
 
 A curated collection of quick start guides, cheat sheets, and reference materials for developers and security professionals.
