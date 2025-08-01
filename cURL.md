@@ -1,6 +1,7 @@
 ---
 title: cURL Cheat Sheet
 layout: home
+parent: Developer Tools
 ---
 
 # cURL
