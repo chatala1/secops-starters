@@ -1,6 +1,7 @@
 ---
 title: "Sn1per"
 layout: home
+parent: Security Tools
 ---
 
 # Sn1per
