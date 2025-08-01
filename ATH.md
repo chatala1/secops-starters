@@ -1,3 +1,9 @@
+---
+title: Advanced Threat Hunting Cheat Sheet
+nav_order: 1
+description: Reference Index - Advanced Threat Hunting queries and notes
+---
+
 # Advanced Threat Hunting Cheat Sheet
 
 #### Disclaimer
