@@ -1,7 +1,7 @@
 ---
 title: Advanced Threat Hunting Cheat Sheet
 layout: home
-parent: Security Tools
+parent: <b>Security Tools</b>
 ---
 
 # Advanced Threat Hunting Cheat Sheet
