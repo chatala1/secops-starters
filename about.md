@@ -1,6 +1,6 @@
 ---
 title: About
-layout: Home
+layout: home
 ---
 
 # Security Operations Reference Index
