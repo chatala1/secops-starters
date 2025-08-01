@@ -1,6 +1,7 @@
 ---
 title: Splunk Quick Reference
 layout: home
+parent: Security Tools
 ---
 
 ## Splunk Threat Hunting Examples
