@@ -1,3 +1,12 @@
+---
+title: Splunk Cheat Sheet
+nav_order: 3
+description: Reference Index - Splunk search queries and usage notes
+parent: Cheat Sheets
+has_children: false
+permalink: /splunk-cheat-sheet/
+---
+
 ## Splunk Threat Hunting Examples
 
 ### Outbound anomalies in traffic
