@@ -1,11 +1,6 @@
 ---
 title: Advanced Threat Hunting Cheat Sheet
-layout: Home
-nav_order: 2
-description: Reference Index - Advanced Threat Hunting queries and notes
-parent: Cheat Sheets
-has_children: false
-permalink: /ath-cheat-sheet/
+layout: home
 ---
 
 # Advanced Threat Hunting Cheat Sheet
