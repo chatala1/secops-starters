@@ -1,6 +1,6 @@
 ---
 title: cURL Cheat Sheet
-layout: Home
+layout: home
 ---
 
 # cURL
