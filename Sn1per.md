@@ -1,7 +1,7 @@
 ---
 title: "Sn1per"
 layout: home
-parent: Security Tools
+parent: <b>Security Tools</b>
 ---
 
 # Sn1per
