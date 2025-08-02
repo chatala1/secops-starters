@@ -1,5 +1,5 @@
 ---
-title: <b>Contributors</b>
+title: Contributors
 layout: home
 nav_order: 3
 ---
