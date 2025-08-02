@@ -26,7 +26,7 @@ Content areas include:
 
 ## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request if you have a cheat sheet or reference to add. ![About Contributors](contributors.md)
+Contributions are welcome! Please open an issue or submit a pull request if you have a cheat sheet or reference to add. [About Contributors](contributors.md)
 
 ## License
 
