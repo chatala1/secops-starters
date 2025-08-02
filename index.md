@@ -38,5 +38,5 @@ Distributed under the MIT License.
 
 ![License](https://img.shields.io/github/license/chatala1/secops-starters.svg)  ![Build](https://github.com/chatala1/secops-starters/actions/workflows/pages.yml/badge.svg)  ![Last Commit](https://img.shields.io/github/last-commit/chatala1/secops-starters.svg)  ![Repo Size](https://img.shields.io/github/repo-size/chatala1/secops-starters.svg)
 
-[Quick Link](https://chatala1.github.io/secops-starters)
+[GitHub Pages Web Link](https://chatala1.github.io/secops-starters)
 
