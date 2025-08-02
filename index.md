@@ -4,23 +4,51 @@ layout: home
 nav_order: 1
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# SecOps Starters
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Welcome to **SecOps Starters** — a tactical resource for cybersecurity operators. This site is built for those on the front lines of security operations, threat analysis, and incident response.
 
-More specifically, the created site:
+Whether you're developing workflows, refining detection strategies, or conducting hands-on training, this site offers quick-reference tools and structured guidance tailored to operational environments.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+---
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+## Site Overview
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+SecOps Starters uses the **Just the Docs** template to deliver fast access to curated cybersecurity knowledge. It’s built for clarity, adaptability, and speed—making it easy to integrate into team documentation, lab environments, or personal playbooks.
 
-To get started with creating a site, simply:
+Content areas include:
+- Threat hunting techniques and quick-reference sheets
+- Command-line tool usage for operators
+- Interactive cybersecurity games for skill building
+- Guides to deploying documentation platforms with GitHub Pages and Jekyll
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+---
+
+## Navigation
+
+- [About](about.html): Site purpose and scope.
+- [Advanced Threat Hunting Cheat Sheet](advanced-threat-hunting.html): High-efficiency tactics for detection workflows.
+- [cURL Cheat Sheet](curl.html): HTTP tooling essentials for defenders.
+- [Cybersecurity Games](games.html): Hands-on challenges to sharpen analysis and response.
+
+---
+
+## Deploy Your Own Version
+
+Powered by:
+- A Gemfile with the `just-the-docs` theme
+- GitHub Actions for automated builds
+- Markdown-based content creation
+
+How to launch:
+1. Click “Use this template” on [GitHub](https://github.com/just-the-docs/just-the-docs-template).
+2. Configure deployment: `Settings → Pages → Build and deployment`.
+3. Customize structure, content, and styling.
+4. Preview locally with Jekyll before publishing.
+
+Use it as a base to document your own detection rules, red team guides, or operational notes.
+
+---
 
 If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
 
