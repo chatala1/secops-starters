@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-![License](https://img.shields.io/github/license/chatala1/secops-starters.svg)  ![Last Commit](https://img.shields.io/github/last-commit/chatala1/secops-starters.svg)
+![Last Commit](https://img.shields.io/github/last-commit/chatala1/secops-starters.svg)
 
 # The Security Operators Library
 
@@ -30,9 +30,8 @@ If you want to maintain your docs in the `docs` directory of an existing project
 
 ----
 
-![Build](https://github.com/chatala1/secops-starters/actions/workflows/pages.yml/badge.svg)
+![Build](https://github.com/chatala1/secops-starters/actions/workflows/pages.yml/badge.svg)  ![Repo Size](https://img.shields.io/github/repo-size/chatala1/secops-starters.svg)
 
-![Repo Size](https://img.shields.io/github/repo-size/your-username/your-repo.svg)
-
+![License](https://img.shields.io/github/license/chatala1/secops-starters.svg) 
 
 
