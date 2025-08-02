@@ -4,11 +4,6 @@ layout: home
 parent: <b>Threat Intelligence</b>
 ---
 
-
-Here’s your text formatted in Markdown for improved readability:
-
----
-
 # The Threat Actor Profile Guide for CTI Analysts
 
 ## Foreword
