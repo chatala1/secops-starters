@@ -31,9 +31,9 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template [README](readme.md).
 
 
-## License ![License](https://img.shields.io/github/license/chatala1/secops-starters.svg) 
+## License
 
-Distributed under the MIT License.
+![License](https://img.shields.io/github/license/chatala1/secops-starters.svg)  Distributed under the MIT License.
 
 ---
 
