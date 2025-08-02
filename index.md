@@ -4,7 +4,8 @@ layout: home
 nav_order: 1
 ---
 
-![License](https://img.shields.io/github/license/chatala1/secops-starters.svg)
+![License](https://img.shields.io/github/license/chatala1/secops-starters.svg) | ![Last Commit](https://img.shields.io/github/last-commit/your-username/your-repo.svg)
+
 # The Security Operators Library
 
 Welcome to **The Security Operators Library** — a tactical resource for cybersecurity operators. This site is built for those on the front lines of security operations, threat analysis, and incident response.
@@ -30,6 +31,8 @@ If you want to maintain your docs in the `docs` directory of an existing project
 ----
 
 ![Build](https://github.com/chatala1/secops-starters/actions/workflows/pages.yml/badge.svg)
+
+![Repo Size](https://img.shields.io/github/repo-size/your-username/your-repo.svg)
 
 
 
