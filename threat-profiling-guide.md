@@ -1,6 +1,7 @@
 ---
 title: The Threat Actor Profile Guide for CTI Analysts
 layout: home
+parent: <b>Threat Intelligence</b>
 ---
 
 
