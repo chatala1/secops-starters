@@ -1,7 +1,7 @@
 ---
 title: Social Spear-Phishing - The Weaponization of Social Media Against Midsize Businesses
 layout: home
-parent: Collected Research
+parent: <b>Collected Research</b>
 ---
 
 # Social Spear-Phishing: The Weaponization of Social Media Against Midsize Businesses
