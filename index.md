@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-![Last Commit](https://img.shields.io/github/last-commit/chatala1/secops-starters.svg)  ![Build](https://github.com/chatala1/secops-starters/actions/workflows/pages.yml/badge.svg) 
+![Build](https://github.com/chatala1/secops-starters/actions/workflows/pages.yml/badge.svg)  ![Last Commit](https://img.shields.io/github/last-commit/chatala1/secops-starters.svg)  
 
 # The Security Operators Library
 
