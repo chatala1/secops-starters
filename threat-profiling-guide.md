@@ -114,5 +114,3 @@ The introduction should ultimately answer the following questions:
   - Only include if it is important for readers to know about.
 
 ---
-
-Let me know if you want any section to be further expanded or styled!
