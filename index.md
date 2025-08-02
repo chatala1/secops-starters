@@ -26,10 +26,9 @@ Content areas include:
 
 ## Navigation
 
-- [About](about.html): Site purpose and scope.
-- [Advanced Threat Hunting Cheat Sheet](advanced-threat-hunting.html): High-efficiency tactics for detection workflows.
-- [cURL Cheat Sheet](curl.html): HTTP tooling essentials for defenders.
-- [Cybersecurity Games](games.html): Hands-on challenges to sharpen analysis and response.
+- [About](about.md): Site purpose and scope.
+- [Advanced Threat Hunting Cheat Sheet](advanced-threat-hunting.md): High-efficiency tactics for detection workflows.
+- [cURL Cheat Sheet](curl.md): HTTP tooling essentials for defenders.
 
 ---
 
