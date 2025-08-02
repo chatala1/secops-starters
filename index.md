@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# SecOps Starters
+# The Security Operations Library
 
 Welcome to **SecOps Starters** — a tactical resource for cybersecurity operators. This site is built for those on the front lines of security operations, threat analysis, and incident response.
 
