@@ -1,5 +1,5 @@
 ---
-title: Collected Research
+title: <b>Collected Research</b>
 layout: home
 ---
 
