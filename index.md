@@ -24,31 +24,6 @@ Content areas include:
 
 ---
 
-## Navigation
-
-- [About](about.md): Site purpose and scope.
-- [Advanced Threat Hunting Cheat Sheet](advanced-threat-hunting.md): High-efficiency tactics for detection workflows.
-- [cURL Cheat Sheet](curl.md): HTTP tooling essentials for defenders.
-
----
-
-## Deploy Your Own Version
-
-Powered by:
-- A Gemfile with the `just-the-docs` theme
-- GitHub Actions for automated builds
-- Markdown-based content creation
-
-How to launch:
-1. Click “Use this template” on [GitHub](https://github.com/just-the-docs/just-the-docs-template).
-2. Configure deployment: `Settings → Pages → Build and deployment`.
-3. Customize structure, content, and styling.
-4. Preview locally with Jekyll before publishing.
-
-Use it as a base to document your own detection rules, red team guides, or operational notes.
-
----
-
 If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
 
 ----
