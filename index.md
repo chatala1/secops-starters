@@ -24,11 +24,21 @@ Content areas include:
 
 ---
 
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request if you have a cheat sheet or reference to add. ![About Contributors](contributors.md)
+
+## License
+
+Distributed under the MIT License. ![License](https://img.shields.io/github/license/chatala1/secops-starters.svg) 
+
+---
+
 If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
 
 ----
 ![Build](https://github.com/chatala1/secops-starters/actions/workflows/pages.yml/badge.svg)  ![Last Commit](https://img.shields.io/github/last-commit/chatala1/secops-starters.svg)  
-![License](https://img.shields.io/github/license/chatala1/secops-starters.svg)  ![Repo Size](https://img.shields.io/github/repo-size/chatala1/secops-starters.svg)
+![Repo Size](https://img.shields.io/github/repo-size/chatala1/secops-starters.svg)
 
 
 
