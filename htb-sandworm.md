@@ -1,5 +1,5 @@
 ---
-title: HTB Guide - Sandworm
+title: Sandworm
 layout: home
 parent: <b>Hack The Box</b>
 ---
