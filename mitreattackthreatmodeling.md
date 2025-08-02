@@ -4,7 +4,7 @@ layout: home
 parent: <b>Threat Modeling</b>
 ---
 
-a# Threat Modeling with MITRE ATT&CK Framework 
+# Threat Modeling with MITRE ATT&CK Framework 
 This provides a guided step by step walkthrough for threat modeling with MITRE ATT&amp;CK Framework<BR />
 
 # Preface
