@@ -29,9 +29,7 @@ If you want to maintain your docs in the `docs` directory of an existing project
 
 ----
 
-
-![Pages](https://github.com/chatala1/secops-starters/actions/workflows/pages/pages-build-deployment/badge.svg)
 ![Build](https://github.com/chatala1/secops-starters/actions/workflows/pages.yml/badge.svg)
 
----
+
 
