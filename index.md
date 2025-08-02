@@ -34,7 +34,7 @@ Distributed under the MIT License. ![License](https://img.shields.io/github/lice
 
 ---
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template [README](readme.md).
 
 ----
 ![Build](https://github.com/chatala1/secops-starters/actions/workflows/pages.yml/badge.svg)  ![Last Commit](https://img.shields.io/github/last-commit/chatala1/secops-starters.svg)  
