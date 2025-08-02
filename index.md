@@ -31,4 +31,5 @@ If you want to maintain your docs in the `docs` directory of an existing project
 
 
 ![Pages](https://github.com/chatala1/secops-starters/actions/workflows/pages/pages-build-deployment/badge.svg)
+
 ![License](https://img.shields.io/github/license/chatala1/secops-starters.svg)
