@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-![License](https://img.shields.io/github/license/chatala1/secops-starters.svg) | ![Last Commit](https://img.shields.io/github/last-commit/your-username/your-repo.svg)
+![License](https://img.shields.io/github/license/chatala1/secops-starters.svg) ![Last Commit](https://img.shields.io/github/last-commit/chatala1/secops-starters.svg)
 
 # The Security Operators Library
 
