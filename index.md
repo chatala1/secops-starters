@@ -4,6 +4,7 @@ layout: home
 nav_order: 1
 ---
 
+![Build](https://github.com/chatala1/secops-starters/actions/workflows/pages.yml/badge.svg)
 # The Security Operators Library
 
 Welcome to **The Security Operators Library** — a tactical resource for cybersecurity operators. This site is built for those on the front lines of security operations, threat analysis, and incident response.
@@ -28,11 +29,6 @@ If you want to maintain your docs in the `docs` directory of an existing project
 
 ----
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+![Pages](https://github.com/chatala1/secops-starters/actions/workflows/pages/pages-build-deployment/badge.svg)
+![License](https://img.shields.io/github/license/chatala1/secops-starters.svg)
