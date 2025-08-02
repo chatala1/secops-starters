@@ -4,9 +4,9 @@ layout: home
 nav_order: 1
 ---
 
-# The Security Operations Library
+# The Security Operators Library
 
-Welcome to **SecOps Starters** — a tactical resource for cybersecurity operators. This site is built for those on the front lines of security operations, threat analysis, and incident response.
+Welcome to **The Security Operators Library** — a tactical resource for cybersecurity operators. This site is built for those on the front lines of security operations, threat analysis, and incident response.
 
 Whether you're developing workflows, refining detection strategies, or conducting hands-on training, this site offers quick-reference tools and structured guidance tailored to operational environments.
 
@@ -14,7 +14,7 @@ Whether you're developing workflows, refining detection strategies, or conductin
 
 ## Site Overview
 
-SecOps Starters uses the **Just the Docs** template to deliver fast access to curated cybersecurity knowledge. It’s built for clarity, adaptability, and speed—making it easy to integrate into team documentation, lab environments, or personal playbooks.
+The Security Operators Library uses the **Just the Docs** template to deliver fast access to curated cybersecurity knowledge. It’s built for clarity, adaptability, and speed—making it easy to integrate into team documentation, lab environments, or personal playbooks.
 
 Content areas include:
 - Threat hunting techniques and quick-reference sheets
