@@ -1,3 +1,10 @@
+---
+title: OSINT Tools (Future Merge)
+layout: home
+parent: <b>Intelligence Collection</b>
+---
+
+
 # OSINT-Tools
 :eyes: Some of my favorite OSINT tools.
  
